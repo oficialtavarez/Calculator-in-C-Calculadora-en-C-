@@ -1,5 +1,5 @@
 (Ingles)
-# Calculator-in-C-Calculadora-en-C-
+# Calculator in C
 Enjoy a basic calculator created in Dec-C+ with multiple options to explore and navigate while learning.
 
 (Español) 
