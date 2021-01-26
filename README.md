@@ -47,24 +47,34 @@ Cualquier problema puede expresarse mediante:
 
 Si desea que siga subiendo proyectos de este tipo o mejores en el futuro. Considere apoyar al autor para que continúe con el mantenimiento y desarrollo de todos los proyectos que estamos subiendo a Github.
 
-* [Done con PayPal] (https://www.paypal.me/ChrisBock)
+* [Done con PayPal] (franklinandersontavarezurena@gmail.com)
 
 # Agradecimientos
 
 * Gracias a Nevekley por ayudarnos con innumerables problemas.
 
-# Imágenes de variaciones
+# Imágenes de las opciones: 
 
 # Menu Principal:
 
-
+<p align = "centro">
+<img src = "https://andersontavarez.com/wp-content/uploads/2021/01/1.png">
+</p>
 # Calculadora:
-
+<p align = "centro">
+<img src = "https://andersontavarez.com/wp-content/uploads/2021/01/2.png">
+</p>
 
 # Buscador web:
-
+<p align = "centro">
+<img src = "https://andersontavarez.com/wp-content/uploads/2021/01/3.png">
+</p>
 
 # Juegos:
-
+<p align = "centro">
+<img src = "https://andersontavarez.com/wp-content/uploads/2021/01/5.png">
+</p>
 # Calendario:
-
+<p align = "centro">
+<img src = "https://andersontavarez.com/wp-content/uploads/2021/01/4.png">
+</p>
