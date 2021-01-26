@@ -1,5 +1,5 @@
 <p align = "centro">
-<img src = "https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/image/header.jpg">
+<img src = "https://imgur.com/3sDDXGa">
 </p>
 
 <p align = "centro">
