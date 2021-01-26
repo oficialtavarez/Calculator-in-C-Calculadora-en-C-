@@ -3,9 +3,8 @@
 </p>
 
 <p align = "centro">
-    <a href="https://discord.gg/VEu9qWRvFe" alt=" Soporte">
-    <a href="https://github.com/oficialtavarez" alt="Perfil">
-        <img src = "https://img.shields.io/github/last-commit/puckzxz/NotAnotherAnimeTheme.svg?logo=GitHub&style=flat-square" /> </a>
+     <a href="https://discord.gg/VEu9qWRvFe" alt="Perfil">
+     <img src = "https://img.shields.io/github/last-commit/puckzxz/NotAnotherAnimeTheme.svg?logo=GitHub&style=flat-square" /> </a>
 </p>
 
 
@@ -94,22 +93,3 @@ Este tema ** NO ** es compatible con el modo mínimo.
 ### Lista de servidores de columna cuádruple
 
 ! [NotAnotherAnimeThemeQCSL] (https://i.imgur.com/EwgpmhY.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
