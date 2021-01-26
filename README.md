@@ -55,26 +55,28 @@ Si desea que siga subiendo proyectos de este tipo o mejores en el futuro. Consid
 
 # Imágenes de las opciones: 
 
-## Menu Principal:
+# Menu Principal:
 
 <p align = "centro">
 <img src = "https://andersontavarez.com/wp-content/uploads/2021/01/1.png">
 </p>
-## Calculadora:
+
+# Calculadora:
 <p align = "centro">
 <img src = "https://andersontavarez.com/wp-content/uploads/2021/01/2.png">
 </p>
 
-## Buscador web:
+# Buscador web:
 <p align = "centro">
 <img src = "https://andersontavarez.com/wp-content/uploads/2021/01/3.png">
 </p>
 
-## Juegos:
+# Juegos:
 <p align = "centro">
 <img src = "https://andersontavarez.com/wp-content/uploads/2021/01/5.png">
 </p>
-## Calendario:
+
+# Calendario:
 <p align = "centro">
 <img src = "https://andersontavarez.com/wp-content/uploads/2021/01/4.png">
 </p>
