@@ -45,13 +45,13 @@ Cualquier problema puede expresarse mediante:
 
 ## Notas
 
-Si desea que siga subiendo proyectos de este tipo o mejores en el futuro. Considere apoyar al autor para que continúe con el mantenimiento y desarrollo de todos los proyectos que estamos subiendo a Github.
+Si desea que siga subiendo proyectos de codigo abierto o mejores en el futuro, considere apoyarme para continuar con el mantenimiento y desarrollando todos lo que podamos a la vez que seguimos subiendo otros a Github y otras plataformas.
 
-* [Done con PayPal] (franklinandersontavarezurena@gmail.com)
+* [Done con PayPal] (franklinandersontavarezurena@gmail.com) (Recuerde agregar 
 
 # Agradecimientos
 
-* Gracias a Nevekley por ayudarnos con innumerables problemas.
+* Gracias al equipo de Nevekley por ayudarnos con innumerables problemas cuando estuvimos programar este proyecto con diferentes versiones para que cualquiera lo pueda disfrutar y modificar a su gusto.
 
 # Imágenes de las opciones: 
 
