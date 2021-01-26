@@ -1,5 +1,5 @@
 <p align = "centro">
-<img src = "https://imgur.com/3sDDXGa">
+<img src = "https://andersontavarez.com/wp-content/uploads/2021/01/Sin-titulo.png">
 </p>
 
 <p align = "centro">
