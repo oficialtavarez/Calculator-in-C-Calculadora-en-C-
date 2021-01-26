@@ -25,64 +25,46 @@ Disfruta de una calculadora básica creada en Dec-C+ con múltiples opciones par
 
 ## PREGUNTAS MÁS FRECUENTES
 
-### P: * ¿Dónde se encuentra la carpeta del tema BetterDiscord? *
+### P: * ¿Dónde se baja la aplicacion? *
 
-* Por lo general, se instala en `% AppData% \ BetterDiscord \ themes`, sin embargo, para una instalación personalizada, la ubicación se puede encontrar yendo a Configuración de usuario en Discord> Temas> Abrir carpeta de temas.
+* Por lo general, recomendamos que lo descagues de mediafire o mega via los siguientes errores para evitar problemas o errores o que ejecutes el codigo de forma directa para una mayor experiencia.
 
-### P: * Todavía no estoy seguro de cómo instalar esto *
-
-* Aquí hay un video que describe los pasos para [descargar] (https://www.youtube.com/watch?v=1ML5_F-n5iw) e [instalar] (https://www.youtube.com/watch ? v = R-aZTjHWRZc)
-
-### P: * ¿Cómo puedo personalizar el tema? *
-
-* Los detalles sobre cómo personalizar el tema están [aquí.] (Https://www.youtube.com/watch?v=YYsdNkLOQjU)
 
 ## Contribuyendo
 
-¿Has hecho algo genial con NotAnotherAnimeTheme y tienes ganas de compartirlo? ¡Bifurcame y agrégalo a la carpeta de la comunidad! Si no eres un experto, puedes abrir un problema o simplemente enviarme un mensaje por correo electrónico en discordia y agregaré tu tema.
+¿Has hecho algo genial con la Calculadora en C+  y tienes ganas de compartirlo? ¡Enviame  un mensaje y agrégalo a la carpeta de la comunidad en Discord! Si no eres un experto, puedes abrir un problema o simplemente enviarme un mensaje por correo electrónico en discordia y agregaré tu tema.
 
 ## Soporte
 
 Se creó un servidor de Discord para problemas, soporte, comentarios, recomendaciones, etc.
 
-[<img src = "https://canary.discordapp.com/api/guilds/412794678791110664/widget.png?style=banner3">] (https://discord.gg/FdZhbjY)
-
 Cualquier problema puede expresarse mediante:
 
-* [Uniéndose al servidor de Discord] (https://discord.gg/FdZhbjY)
-* [Abriendo un problema en GitHub] (https://github.com/puckzxz/NotAnotherAnimeTheme/issues)
-* Enviándome un mensaje en Discord en puckzxz # 2080
+* [Uniéndose al servidor de Discord] (https://discord.gg/VEu9qWRvFe)
+* Enviándome un mensaje en Discord en Anderson Tavárez#7280
 
 ## Notas
 
-Si bien el tema es gratuito y de código abierto, se necesita tiempo para mantenerlo actualizado. Si le gusta el tema, considere apoyar al autor para que continúe con su mantenimiento y desarrollo.
+Si desea que siga subiendo proyectos de este tipo o mejores en el futuro. Considere apoyar al autor para que continúe con el mantenimiento y desarrollo de todos los proyectos que estamos subiendo a Github.
 
 * [Done con PayPal] (https://www.paypal.me/ChrisBock)
 
-En la configuración de apariencia, asegúrese de que ** Oscuro ** esté seleccionado.
+# Agradecimientos
 
-Este tema ** NO ** es compatible con el modo mínimo.
+* Gracias a Nevekley por ayudarnos con innumerables problemas.
 
-## Agradecimientos
+# Imágenes de variaciones
 
-* Gracias a [VX] (https://github.com/ImVexed) por crear y alojar el CDN que utiliza NotAnotherAnimeTheme
+# Menu Principal:
 
-* Gracias a [Qu4k3] (https://github.com/Qu4k3) por ayudarnos con innumerables problemas
 
-## Imágenes de variaciones
+# Calculadora:
 
-### Lista de servidores de una sola columna
 
-! [NotAnotherAnimeThemeSCSL] (https://i.imgur.com/UxFoW03.jpg)
+# Buscador web:
 
-### Lista de servidores de doble columna
 
-! [NotAnotherAnimeTheme] (https://i.imgur.com/mw6SCPt.jpg)
+# Juegos:
 
-### Lista de servidores de triple columna
+# Calendario:
 
-! [NotAnotherAnimeThemeTCSL] (https://i.imgur.com/a5sdC2C.jpg)
-
-### Lista de servidores de columna cuádruple
-
-! [NotAnotherAnimeThemeQCSL] (https://i.imgur.com/EwgpmhY.jpg)
