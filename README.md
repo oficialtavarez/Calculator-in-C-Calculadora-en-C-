@@ -20,15 +20,8 @@ Disfruta de una calculadora básica creada en Dec-C+ con múltiples opciones par
 
 ## Instalación
 
-1. Asegúrese de que [Bandaged BetterDiscord] (https://github.com/rauenzi/BetterDiscordApp/releases/latest) esté instalado.
-2. Abra una de las siguientes variaciones del tema en una nueva pestaña del navegador.
-      * [Columna única] (https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeThemeSCSL.theme.css)
-      * [Columna doble] (https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeThemeDCSL.theme.css)
-      * [Triple columna] (https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeThemeTCSL.theme.css)
-      * [Columna cuádruple] (https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeThemeQCSL.theme.css)
-3. En la nueva pestaña, haga clic derecho> "Guardar como ..."> guardar en la carpeta BetterDiscord Theme.
-4. Reinicie el cliente de Discord haciendo clic con el botón derecho en el icono de la bandeja y haciendo clic en "Salir de Discord" o presionando Ctrl + R dentro del cliente.
-5. Vaya a Configuración de usuario en Discord> Temas> Seleccione `NotAnotherAnimeTheme vX.X by puckzxz # 2080`
+1. Asegúrese de  descargar [calculadora en c++] (https://github.com/rauenzi/BetterDiscordApp/releases/latest).
+2. Ejecute la aplicacion y a disfrutar.
 
 ## PREGUNTAS MÁS FRECUENTES
 
