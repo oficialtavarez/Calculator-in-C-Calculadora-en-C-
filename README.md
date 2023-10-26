@@ -1,13 +1,3 @@
-<p align = "centro">
-<img src = "https://andersontavarez.com/wp-content/uploads/2021/01/Sin-titulo.png">
-</p>
-
-<p align = "centro">
-     <a href="https://discord.gg/VEu9qWRvFe" alt="Perfil">
-     <img src = "https://img.shields.io/github/last-commit/puckzxz/NotAnotherAnimeTheme.svg?logo=GitHub&style=flat-square" /> </a>
-</p>
-
-
 (Ingles)
 # Calculator in C
 Enjoy a basic calculator created in Dec-C+ with multiple options to explore and navigate while learning.
