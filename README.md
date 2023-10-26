@@ -60,11 +60,6 @@ Si desea que siga subiendo proyectos de codigo abierto o mejores en el futuro, c
 <a href="https://ibb.co/ypqRf0r"><img src="https://i.ibb.co/KDWG06J/1.png" alt="1" border="0"></a>
 
 
-# Calculadora:
-<p align = "centro">
-<img src = "https://andersontavarez.com/wp-content/uploads/2021/01/2.png">
-</p>
-
 # Buscador web:
 <a href="https://ibb.co/CsbzbsY"><img src="https://i.ibb.co/G3W0W38/4.png" alt="4" border="0"></a>
 
