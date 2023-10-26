@@ -57,9 +57,8 @@ Si desea que siga subiendo proyectos de codigo abierto o mejores en el futuro, c
 
 # Menu Principal:
 
-<p align = "centro">
-<img src = "https://andersontavarez.com/wp-content/uploads/2021/01/1.png">
-</p>
+<a href="https://ibb.co/ypqRf0r"><img src="https://i.ibb.co/KDWG06J/1.png" alt="1" border="0"></a>
+
 
 # Calculadora:
 <p align = "centro">
@@ -67,16 +66,10 @@ Si desea que siga subiendo proyectos de codigo abierto o mejores en el futuro, c
 </p>
 
 # Buscador web:
-<p align = "centro">
-<img src = "https://andersontavarez.com/wp-content/uploads/2021/01/3.png">
-</p>
+<a href="https://ibb.co/CsbzbsY"><img src="https://i.ibb.co/G3W0W38/4.png" alt="4" border="0"></a>
 
 # Juegos:
-<p align = "centro">
-<img src = "https://andersontavarez.com/wp-content/uploads/2021/01/5.png">
-</p>
-
+<a href="https://ibb.co/FhQwQTf"><img src="https://i.ibb.co/MgzVz0j/2.png" alt="2" border="0"></a>
 # Calendario:
-<p align = "centro">
-<img src = "https://andersontavarez.com/wp-content/uploads/2021/01/4.png">
-</p>
+
+<a href="https://ibb.co/XxQ15t0"><img src="https://i.ibb.co/KxPdsW4/3.png" alt="3" border="0"></a>
